@@ -2,5 +2,5 @@
 
 
 
-<jsp:forward page="homeurl"/>
+<jsp:forward page="home.htm"/>
 
