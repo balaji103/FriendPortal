@@ -1,6 +1,7 @@
-package com.fnd.bo;
+package com.fnd.dto;
 
-public class fndBO {
+
+public class FndDTO {
 	private int id;
 	private String fName;
 	private String lName;
@@ -9,4 +10,5 @@ public class fndBO {
 	private long mobNumber;
 	private String city;
 	private String companyName;
+
 }
